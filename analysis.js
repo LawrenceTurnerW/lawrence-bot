@@ -3,10 +3,10 @@ const msg = fs.readFileSync("newout.csv", {encoding: "utf-8"});
 
 var twitter = require('twitter');
 var bot = new twitter({
-    consumer_key: 'Xt6jFEMoyVYog8V4Nj2SdSkGP',
-    consumer_secret: 'QEUPmqvha3vw87MPcN6ZcJ3M9Rolzx5bxPfgzUx0kKNHdSmo7y',
-    access_token_key: '1104552382438891522-Yo9Lq3JbRyjhfLcpxAYyhUhSHXzjSr',
-    access_token_secret: 'atUq44QhehftjdPUTjwsUgjWdy8WG7LtzSLy1NI4uTUQ2'
+    consumer_key: '',
+    consumer_secret: '',
+    access_token_key: '',
+    access_token_secret: ''
 });
 
 var kuromoji = require('kuromoji');
