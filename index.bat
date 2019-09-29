@@ -1,6 +1,6 @@
 :top
 
-node C:\Users\Takafumi\CSVRead\analysis.js
+node localadress
 
 timeout 3600
 
